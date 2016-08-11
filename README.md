@@ -9,7 +9,7 @@ SDWebImage不支持直接对Layer的Content进行图片设置
 
     QCStitchingImage *stitchingImage = [QCStitchingImage stitchingWithFrame:CGRectMake(50, 50, 150, 150) imageArray: networkArray];
     [self.view addSubview:stitchingImage];
-使用
+
 
 
  ![image](https://github.com/Joe0708/QCStitchingImage/blob/master/Demo.png)
